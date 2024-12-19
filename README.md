@@ -10,20 +10,12 @@
 
 <div class="stats">
   <div>
-    <h3>99.9%</h3>
-    <p>Uptime Guarantee</p>
-  </div>
-  <div>
     <h3>24/7</h3>
     <p>Support Available</p>
   </div>
   <div>
     <h3>100+</h3>
     <p>Servers Managed</p>
-  </div>
-  <div>
-    <h3>30min</h3>
-    <p>Emergency Response Time</p>
   </div>
 </div>
 
@@ -61,6 +53,5 @@
 <footer>
   <p>
     💻 Let's connect and build amazing infrastructure! Feel free to reach out at any time.<br>
-    <strong>24/7 Support - Emergency Response Time: 30min</strong>
   </p>
 </footer>
